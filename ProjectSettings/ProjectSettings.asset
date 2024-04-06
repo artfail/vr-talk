@@ -163,6 +163,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.Artfail.VRTalk
     Standalone: com.Artfail.VR-Talk
+    iPhone: com.Artfail.VR-Talk
   buildNumber:
     Standalone: 0
     VisionOS: 0
