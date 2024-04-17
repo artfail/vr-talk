@@ -6,21 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/Sample.unity
-    guid: c087631514c88431887499f95cfe9df1
-  - enabled: 0
     path: Assets/Scenes/Far Grab.unity
     guid: 8c992e9cb88954461bb3fc5ecd875097
   - enabled: 0
     path: Assets/Scenes/Close Grab.unity
     guid: 323ab1172541644099636113096f0923
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Hand Grab Close.unity
     guid: 19a3b15bb9afb4729b86bc0331c6ab26
   - enabled: 0
     path: Assets/Scenes/Trees.unity
     guid: c732593fe76e5a84197f9cd13963f706
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Jukebox.unity
     guid: 05868f86e07e94842b7cafa8df8824b1
   m_configObjects:
