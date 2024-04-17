@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Close Grab.unity
     guid: 323ab1172541644099636113096f0923
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Hand Grab Close.unity
     guid: 19a3b15bb9afb4729b86bc0331c6ab26
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Hand Grab Far.unity
     guid: 5ef2096f91b3043c3911defc42a2fe7a
   - enabled: 0
