@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Close Grab.unity
     guid: 323ab1172541644099636113096f0923
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Hand Grab Close.unity
     guid: 19a3b15bb9afb4729b86bc0331c6ab26
   - enabled: 0
@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Jukebox.unity
     guid: 05868f86e07e94842b7cafa8df8824b1
+  - enabled: 0
+    path: Assets/Samples/XR Hands/1.4.0/Gestures/HandGestures.unity
+    guid: cd792f2302b8b6f4c9f264e2a4503e15
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 85b01e28c089f4714996aab4c80d9afb, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 651cf47cf122c4b7b8bc4c3b8021fac7, type: 2}
