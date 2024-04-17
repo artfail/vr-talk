@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Artfail
-  productName: Unity VR 2022
+  productName: VR Talk 2022
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,10 +140,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: -8238140163474446838, guid: 651cf47cf122c4b7b8bc4c3b8021fac7, type: 2}
-  - {fileID: 11400000, guid: 85b01e28c089f4714996aab4c80d9afb, type: 2}
-  - {fileID: -6837275289409874873, guid: 62e51b44aac9a445a8cb439ea1ea03b2, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -164,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Artfail.UnityVR2022
+    Android: com.Artfail.VRTalk2022
   buildNumber:
     Standalone: 0
     VisionOS: 0
