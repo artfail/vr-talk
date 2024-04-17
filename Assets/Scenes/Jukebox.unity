@@ -491,7 +491,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 600191173}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0df664ddf7c70400099302b9ce86c971, type: 3}
+  m_Script: {fileID: 11500000, guid: 683abbad4b3ae4f9bb7bea8030fd4e53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   castLayer:
@@ -881,12 +881,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 876195427}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d82c0dbc3e7ac49a39a367a6c1e8806e, type: 3}
+  m_Script: {fileID: 11500000, guid: 8eb9da6ae15c84f0ebe99499277b2381, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  songs:
-  - {fileID: 8300000, guid: 0717de536f15f4bf7a835539994b4438, type: 3}
-  - {fileID: 8300000, guid: 3f6ddee8cc7504a528cde3b42cf03407, type: 3}
+  songs: []
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,7 +1404,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1385418750}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0df664ddf7c70400099302b9ce86c971, type: 3}
+  m_Script: {fileID: 11500000, guid: 683abbad4b3ae4f9bb7bea8030fd4e53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   castLayer:
