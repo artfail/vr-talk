@@ -21,7 +21,7 @@ public class PlayerMove : MonoBehaviour
         InputDevices.GetDeviceAtXRNode(handRole).TryGetFeatureValue(CommonUsages.primary2DAxis, out Vector2 direction);
         Vector3 moveDir = camTrans.forward * direction.y + camTrans.right * direction.x;
         moveDir = moveDir.normalized * speed;
-        moveDir.y = _rigidbody.velocity.y;
-        _rigidbody.velocity = moveDir;
+        moveDir.y = _rigidbody.linearVelocity.y;
+        _rigidbody.linearVelocity = moveDir;
     }
 }
